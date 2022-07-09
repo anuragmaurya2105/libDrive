@@ -2,7 +2,7 @@ cd ..
 
 git clone https://github.com/libDrive/cloudflare.git
 git clone https://github.com/libDrive/config.git
-git clone https://github.com/anuragmaurya2105/heroku.git
+git clone https://github.com/libDrive/heroku.git
 git clone https://github.com/libDrive/libdrive.github.io.git
 git clone https://github.com/libDrive/server.git
 git clone https://github.com/anuragmaurya2105/web.git
